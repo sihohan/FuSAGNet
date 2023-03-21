@@ -21,10 +21,12 @@ This repository contains the official PyTorch implementation* of Fused Sparse Au
     |   ├── net_struct.py
     |   ├── preprocess.py
     |   └── time.py
+    ├── .gitattributes
+    ├── .gitignore
+    ├── README.md
     ├── __init__.py
     ├── evaluate.py
     ├── main.py
-    ├── README.md
     ├── test.py
     └── train.py
 

@@ -51,7 +51,7 @@ python main.py
 
 ## Citation
 
-If you are to cite our paper, please consider using the BibTeX citation below.
+If you find our work useful, please consider citing our paper.
 
 ```
 @inproceedings{han2022learning,

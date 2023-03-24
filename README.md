@@ -62,3 +62,6 @@ If you find our work useful, please consider citing our paper.
   year={2022}
 }
 ```
+
+## References
+* Han, Siho, and Simon S. Woo. "Learning Sparse Latent Graph Representations for Anomaly Detection in Multivariate Time Series." Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022.

@@ -2,7 +2,7 @@
 
 This repository contains the official PyTorch implementation* of Fused Sparse Autoencoder and Graph Net (FuSAGNet), introduced in ["Learning Sparse Latent Graph Representations for Anomaly Detection in Multivariate Time Series" (KDD '22)](https://dl.acm.org/doi/abs/10.1145/3534678.3539117).
 
-\* Partly based on the implementation of [GDN](https://github.com/d-ailin/GDN), introduced in ["Graph Neural Network-Based Anomaly Detection in Multivariate Time Series" (AAAI '21)](https://ojs.aaai.org/index.php/AAAI/article/view/16523).
+\*Partly based on the implementation of [GDN](https://github.com/d-ailin/GDN), introduced in ["Graph Neural Network-Based Anomaly Detection in Multivariate Time Series" (AAAI '21)](https://ojs.aaai.org/index.php/AAAI/article/view/16523).
 
 ## Repository Organization
     
